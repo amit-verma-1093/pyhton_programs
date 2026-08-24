@@ -1,0 +1,1 @@
+lst=[x for x in ["mango","apple","bnnana","kela","orange"] if x[0]=="a" or x[0]=="e" or x[0]=="i" or x[0]=="o" or x[0]=="u"]; print(lst)
